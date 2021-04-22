@@ -1,5 +1,5 @@
 {
-  "name": "zekker",
+  "name": "zek-web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,6 +19,10 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.11"
+  },
+  "author": {
+    "name": "Michael Blakley",
+    "email": "mike.blakley@keap.com"
   },
   "eslintConfig": {
     "root": true,

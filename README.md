@@ -1,4 +1,6 @@
-# zekker
+# zek-web
+
+zek-web will serve as a client UI for an initial oboarding project.
 
 ## Project setup
 ```
