@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="logo" class="logo" src="./assets/keapK.png">
-    <HelloWorld msg="Welcome to Mike's App"/>
+    <login />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import login from './auth/components/login';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    login
   }
 }
 </script>
